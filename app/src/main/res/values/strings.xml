@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sustos_JoseAntonio</string>
+    <string name="nº_sustos">nº sustos</string>
+    <string name="Sustos">Sustos</string>
+    <string name="cadenas">Cadenas</string>
+    <string name="campanas">Campanas</string>
+    <string name="cristal">Cristal</string>
+    <string name="gato">Gato</string>
+    <string name="gotas">Gotas</string>
+    <string name="grito">Grito</string>
+    <string name="pasos">Pasos</string>
+    <string name="perro">Perro</string>
+    <string name="respiracion">Respiracion</string>
+    <string name="risa">Risa</string>
+    <string name="Salir">Salir</string>
+</resources>

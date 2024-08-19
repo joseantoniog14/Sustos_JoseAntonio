@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scares_JoseAntonio</string>
+    <string name="nº_sustos">nº scares</string>
+    <string name="Sustos">Scares</string>
+    <string name="cadenas">Chains</string>
+    <string name="campanas">Bells</string>
+    <string name="cristal">Glass</string>
+    <string name="gato">Cat</string>
+    <string name="gotas">Drops</string>
+    <string name="grito">Scream</string>
+    <string name="pasos">Steps</string>
+    <string name="perro">Dog</string>
+    <string name="respiracion">Breathing</string>
+    <string name="risa">Laughter</string>
+    <string name="Salir">Exit</string>
+</resources>
